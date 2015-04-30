@@ -1,0 +1,22 @@
+= x 0
+= X 0
+= a 2
+= b 3
+= c -11
+= h 4
+= D 0
+= B 0
+* b b B
+= t 0
+* h a t
+* t c t
+- B t t
+sqrt t D
+= m -1
+* b m b
+- b D t
+= s 2
+* a s a
+/ t s x
++ b D t
+/ t a X
